@@ -1,0 +1,12 @@
+Please click on the link below to access Project Link :
+https://github.com/Rushalee-das/nuton.git 
+
+
+Project Name - Attack Simulation on Image Captcha
+Team Members-
+1. Rushalee Das (19/CSE/120)
+2. Sagar Bhusan (19/CSE/121)
+3. Akash Barua (19/CSE/012)
+4. Annpurna Singh (19/CSE/024)
+
+
